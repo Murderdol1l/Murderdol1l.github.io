@@ -1,8 +1,9 @@
-# [Мои домашние проекты:](https://github.com/Murderdol1l/Murderdol1l.github.io/tree/main/projects/cld)  
+# Мои домашние проекты:  
 
-## Проект "Евклид".    
+## [Проект "Евклид".](https://github.com/Murderdol1l/Murderdol1l.github.io/tree/main/projects/cld)    
 
-В рамках этого проекта нарабатывал навыки по созданию адаптивной-резиновой верстки с использованием *медиавыражений*. Макет в figme был предоставлен образовательной платформой Skillbox.    
+В рамках этого проекта нарабатывал навыки по созданию адаптивной-резиновой верстки с использованием *медиавыражений*. Макет в figme был предоставлен образовательной платформой Skillbox.  
+
 [GitHub Pages](https://murderdol1l.github.io/projects/cld/index.html)  
 
 ____
@@ -11,6 +12,7 @@ ____
 
 Проект посвящен изучению анимирования сайтов при помощи библиотеки [GreenSock](https://greensock.com/)  
 Анимировал начальную загрузку страницы и открытие / закрытие бургер-меню.  
+
 [GitHub Pages](https://murderdol1l.github.io/projects/greenSock/index.html)  
 
 ____
@@ -27,6 +29,7 @@ ____
 ## [Проект "Игра в пары".](https://github.com/Murderdol1l/Murderdol1l.github.io/tree/main/projects/pareGame)  
 
 Классическая игра в пары реализованная на чистом JS.  
+
 [GitHub Pages](https://murderdol1l.github.io/projects/pareGame/)
 
 ____
