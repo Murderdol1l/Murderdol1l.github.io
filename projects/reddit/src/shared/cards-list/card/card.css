@@ -1,0 +1,35 @@
+.card {
+  background-color: var(--white);
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  border: 1px solid var(--white);
+  cursor: pointer;
+  width: 100%;
+}
+
+.card:hover {
+  border-color: var(--grayD9);
+}
+
+.card:hover a span {
+  color: var(--orange);
+}
+
+.card:focus-within a span {
+  color: var(--orange);
+}
+
+@media all and (min-width: 1024px) {
+  .card {
+    flex-flow: row;
+    padding: 40px;
+  }
+}
+
+@media all and (min-width: 1540px) {
+  .card {
+    padding: 60px;
+  }
+}

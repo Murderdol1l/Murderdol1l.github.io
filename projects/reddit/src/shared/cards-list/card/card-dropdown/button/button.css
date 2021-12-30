@@ -1,0 +1,41 @@
+.menu {
+  width: 31px;
+  height: 31px;
+  background-color: var(--white);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+}
+
+.dots {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 23px;
+}
+
+.dot {
+  background-color: var(--grayD9);
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
+
+.menu:hover {
+  background-color: var(--grayD9);
+}
+
+.menu:hover .dot {
+  background-color: var(--grayF3);
+}
+
+@media all and (min-width: 1024px) {
+  .menu {
+    transform: rotate(90deg);
+  }
+}
+

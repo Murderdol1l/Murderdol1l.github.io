@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex: 1;
+  justify-content: space-between;
+  padding: 10px 20px;
+  position: relative;
+}
+
+@media all and (min-width: 1024px) {
+  .container {
+    padding-right: 0;
+    order: 3;
+    flex: 1;
+    display: flex;
+    height: auto;
+    justify-content: center;
+  }
+}
